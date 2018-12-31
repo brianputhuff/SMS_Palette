@@ -17,6 +17,7 @@ Example:
 
 The program will generate the following files:
 1. A `SegaMasterSystem_Palette.png` image file.
+
 ![palette image](./SegaMasterSystem_Palette.png)
 
 2. A simple .GPL (palette file) that can be imported into GIMP.
