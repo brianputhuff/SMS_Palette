@@ -20,7 +20,7 @@ The program will generate the following files:
 
 ![palette image](./SegaMasterSystem_Palette.png)
 
-2. A simple .GPL (palette file) that can be imported into GIMP.
+2. A .GPL palette file named, `SegaMasterSystem.gpl`, that can be imported into GIMP.
 
 ### License (BSD2)
 
